@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Multimedia Assistant",
+  "description": "An application showcasing Gemini's powerful multimedia capabilities. Engage in real-time voice conversations using the Live API, and analyze videos to extract summaries, text, and key insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
